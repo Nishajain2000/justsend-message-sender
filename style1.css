@@ -1,0 +1,17 @@
+body{
+	background-color:   #e3e0cc;
+	padding:7%;
+}
+
+.heading{
+height:7vh;
+width:100%;
+display: flex;
+justify-content: center;
+}
+
+.heading h2{
+	color: #82589F;
+	text-align: center;
+	font-size: 25px;
+}
